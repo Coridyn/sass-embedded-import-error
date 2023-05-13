@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "build": "node build.mjs embedded",
+    "build-dart": "node build.mjs dart"
+  },
+  "devDependencies": {
+    "sass": "^1.62.1",
+    "sass-embedded": "^1.62.0"
+  }
+}
